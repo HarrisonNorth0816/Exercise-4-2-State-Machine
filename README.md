@@ -1,28 +1,23 @@
-# Project Name
+# Exercise 4.2—State-Machine
 
-state machine practice
+Exercise for MSCH-C220
 
-Context and date
-
-10/16/23
-
-Description
-
-a basic platformer to learn how to use state machines
+An exercise for the 2D Platformer project, exploring AnimatedSprite and a simple state machine.
 
 ## Implementation
-Which features you included
 
-movement animations and state machine code
+Built using Godot 4.1.1
+
+The sprite is an adaptation of [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah. CC0 Licensed.
 
 ## References
 
-none
+None
 
 ## Future Development
 
-none
+None
 
-## Created by
+## Created by 
 
-harrison north
+Harrison North
